@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: a0e2144e62620cb429dec2eb763d9528
+labels:
+- 2d
+- Physics
+- Water
+- Liquid
+- Dynamic
+- Mesh
+- Based
+- Simulator
+- Script
+- Splash
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SpringPrefab: {fileID: 400000, guid: 9462dc4df8ede3d418eff3364ce8664d, type: 2}
+  - mf: {instanceID: 0}
+  - mesh: {instanceID: 0}
+  - DelayingObject: {instanceID: 0}
+  - WaveSimulator: {fileID: 400000, guid: 3260ac5b7a0beab4c8b19885e093395a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
